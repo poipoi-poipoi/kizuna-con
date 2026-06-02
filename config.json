@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "ps_remote_play_package": "com.playstation.remoteplay",
+  "known_bad_ps_versions": [],
+  "notice": "",
+  "force_update_message": "",
+  "min_app_version": 1,
+  "switch_style_mapping": null,
+  "xbox_style_mapping": null,
+  "_comment": {
+    "notice": "アプリ起動時にダイアログで表示されるお知らせ。空欄で非表示。",
+    "known_bad_ps_versions": "動作不具合が確認されたPS Remote Playのバージョン名リスト。例: [\"8.0.0\", \"8.1.0\"]",
+    "force_update_message": "アプリの強制アップデートを促すメッセージ。空欄で非表示。",
+    "min_app_version": "最低限必要なきずなコンのversionCode。",
+    "ps_remote_play_package": "PS Remote PlayのAndroidパッケージ名。変更時のみ更新。"
+  }
+}
